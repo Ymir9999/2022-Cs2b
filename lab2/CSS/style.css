@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.pink{
+    background-color: plum;
+}
+#hola{
+    background-color: rebeccapurple;
+}
